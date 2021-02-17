@@ -1,0 +1,44 @@
+[
+  {
+    "id": "12321341",
+    "title": "Orange Tulips: 17 orangefarbene Tulpen im Bund, stilecht verpackt",
+    "price": 21,
+    "rating": 5,
+    "image": "https://i.ibb.co/7zhCn2c/Blume1.png"
+  },
+  {
+    "id": "49538094",
+    "title": "Verschenken Sie diesen bunten Geburtstagsgruß! Kurz-rund gebundener Strauß in Bunt mit weißen Akzenten mit z.B. Santini, Rosen, Alstroemerien sowie Lisianthus und etwas Beiwerk.",
+    "price": 39,
+    "rating": 4,
+    "image": "https://i.ibb.co/zRZm2dK/Blume2.png"
+  },
+  {
+    "id": "4903850",
+    "title": "Crystal: So rein wie ein Kristall. 3 weiße Rosen zusammen mit etwas Eucalyptus. Eine edle Stimmung für Ihr Heim.",
+    "price": 19,
+    "rating": 3,
+    "image": "https://i.ibb.co/wc9N1zY/Blume3.png"
+  },
+  {
+    "id": "23445930",
+    "title": "Hallo Sonnenschein! Versenden Sie diese ausgewählten Schnittblumen in Orange und Gelb mit Germini und Lilien, die Sie in der Vase nach Belieben selbst arrangieren können.",
+    "price": 23,
+    "rating": 5,
+    "image": "https://i.ibb.co/NWJ20mF/Blume4.png"
+  },
+  {
+    "id": "3254354345",
+    "title": "Wunderschöne, romantische Kombination aus 10 rosafarbenen Ranunkeln mit fünf seidenweichen Weidenkätzchen.",
+    "price": 21,
+    "rating": 4,
+    "image": "https://i.ibb.co/BgdVzPN/Blume5.png"
+  },
+  {
+    "id": "90829332",
+    "title": "Lang gebundener Trauerstrauß in dezentem Weiß-Grün mit Rosen, Santini und Schleierkraut. Als Beiwerk werden Pistazie, Salal, Aralie, Chico, Efeu, Cordeline und Aspidistra verwendet. ",
+    "price": 45,
+    "rating": 4,
+    "image": "https://i.ibb.co/d7ddfcv/Blume6.png"
+  }
+]
